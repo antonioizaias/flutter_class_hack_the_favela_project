@@ -31,8 +31,15 @@ git clone https://github.com/antonioizaias/flutter_class_hack_the_favela_project
 
 2. Navegue até a pasta do projeto:
 
+> [!NOTE]
+> Exemplo, para acessar a primeira aula:
+
 ```bash
 cd 01
+```
+
+```bash
+cd imc
 ```
 
 3. Instale as dependências:
