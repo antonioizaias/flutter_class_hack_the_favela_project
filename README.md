@@ -18,6 +18,8 @@ Hack the Favela é uma iniciativa que promove educação em tecnologia para comu
 | Pasta | Descrição                               | Data       |
 | ----- | --------------------------------------- | ---------- |
 | `01`  | Calculadora de Índice de Massa Corporal | 04/12/2024 |
+| `02`  | Buscador de GIFs                        | 12/12/2024 |
+| `03`  | Exemplo de uma WebView                  | 12/12/2024 |
 
 As aulas estão sendo adicionadas à medida que o curso avança.
 
